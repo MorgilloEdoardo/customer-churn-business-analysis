@@ -125,14 +125,14 @@ This analysis supports:
 ![Churn Command Center](images/01_churn_command_center.png)
 
 ### 2️⃣ Customer Risk Profiling  
-![Customer Risk](images/02_customer_risk.png)
+![Customer Risk](images/02_customer_risk_pro.png)
 
 ### 3️⃣ Churn Drivers & Insights  
 ![Churn Drivers](images/03_churn_drivers.png)
 
 ### 4️⃣ Business Impact  
 ![Business Impact](images/04_business_impact.png)
-
+filing
 ---
 
 ## 📂 Project Structure  
