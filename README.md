@@ -121,17 +121,17 @@ This analysis supports:
 
 ## 📷 Dashboard Preview  
 
-### Churn Command Center  
-![Churn Command Center](images/executive_overview.png)
+### 1️⃣ Churn Command Center  
+![Churn Command Center](images/01_churn_command_center.png)
 
-### Customer Risk Profiling  
-![Customer Risk](images/customer_risk.png)
+### 2️⃣ Customer Risk Profiling  
+![Customer Risk](images/02_customer_risk.png)
 
-### Churn Drivers & Insights  
-![Churn Drivers](images/churn_drivers.png)
+### 3️⃣ Churn Drivers & Insights  
+![Churn Drivers](images/03_churn_drivers.png)
 
-### Business Impact  
-![Business Impact](images/business_impact.png)
+### 4️⃣ Business Impact  
+![Business Impact](images/04_business_impact.png)
 
 ---
 
